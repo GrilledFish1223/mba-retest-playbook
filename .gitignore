@@ -1,0 +1,22 @@
+# Docs and assets to ignore
+*.pdf
+*.PDF
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+*.gif
+*.GIF
+*.webp
+*.WEBP
+*.bmp
+*.BMP
+*.tif
+*.tiff
+*.svg
+
+# Optional material directories
+book/
+ziliao/
